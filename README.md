@@ -44,6 +44,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Pass the SALT](https://2024.pass-the-salt.org/) | Jul 3-5, 2024 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [FS-ISAC: APAC Summit](https://www.fsisac.com/events/2024-apac) | Jul 9-10, 2024 | Singapore :singapore: | [@FSISAC](https://twitter.com/FSISAC) | N
+| [BSidesAlbuquerque](https://bsidesabq.org) | Jul 19-20, 2024 | Albuquerque (NM) :us: | [@BSides_ABQ](https://twitter.com/BSides_ABQ) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 6-7, 2024 | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [BSidesYXE](https://bsidesyxe.ca) | Aug 24, 2024 | Saskatoon (SK) :canada: | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N
